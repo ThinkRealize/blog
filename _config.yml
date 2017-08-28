@@ -83,3 +83,5 @@ theme: TKL-REVISION
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
+  repo: https://github.com/ThinkRealize/github-pages.git
+  branch: gh-pages
